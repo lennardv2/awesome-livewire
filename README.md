@@ -9,7 +9,7 @@
 - [Dev Tools](#devtools)
 - [Components & Libraries](#components--libraries)
 
-## Legenda
+## Symbol meaning
 💰 = Commercial
 📖 = Open source
 
