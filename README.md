@@ -6,7 +6,7 @@
 - [Official Resources](#official-resources)
 - [Projects Using Livewire](#projects-using-livewire)
 - [Livewire tutorials](#livewire-tutorials)
-- [Dev Tools](#devtools)
+- [Dev Tools](#dev-tools)
 - [Components & Libraries](#components--libraries)
 
 ## Official Resources
