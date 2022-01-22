@@ -9,10 +9,6 @@
 - [Dev Tools](#devtools)
 - [Components & Libraries](#components--libraries)
 
-## Symbol meaning
-💰 = Commercial
-📖 = Open source
-
 ## Official Resources
 
 - [Official Docs](https://laravel-livewire.com/docs)
@@ -35,6 +31,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 * [Livewire Devtools](https://github.com/beyondcode/livewire-devtools) (Browser Extension) Debug your Livewire component state from within your browser.
 
 ## Components & Libraries
+💰 = Commercial 📖 = Open source
 - [Livewire Kit](https://livewirekit.com/) - 💰 38 Laravel Livewire Components
 - [Livewire Demos](https://livewiredemos.com/) - 💰 Reusable Livewire Components
 - [Wire UI](https://github.com/wireui/wireui) - 📖 Wire UI is a library of components and resources to empower your Laravel and Livewire application development.
